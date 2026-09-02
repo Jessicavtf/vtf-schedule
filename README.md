@@ -1,1 +1,1 @@
-# vtf-schedule
+# MAP-schedule
